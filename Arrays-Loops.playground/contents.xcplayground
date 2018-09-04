@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' last-migration='0800'>
+    <pages>
+        <page name='01-Introduction'/>
+        <page name='02-Array-Basics'/>
+        <page name='03-Optionals'/>
+        <page name='04-Setting-up-the-palette'/>
+        <page name='05-Two-Dimensional-Arrays'/>
+        <page name='06-Counting-Neighbors'/>
+        <page name='07-Update-Loop'/>
+    </pages>
+</playground>

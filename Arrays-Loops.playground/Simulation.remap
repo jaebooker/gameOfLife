@@ -1,0 +1,111 @@
+[
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 193,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 313,
+  "remove": 17,
+  "text": "(",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 336,
+  "remove": 7,
+  "text": "ing",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 363,
+  "remove": 1,
+  "text": "repeating: char, c",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 374,
+  "text": ")",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 376,
+  "remove": 13,
+  "text": "count",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 392,
+  "remove": 5,
+  "text": "olumns)",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 416,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 446,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 789,
+  "text": "file",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 815,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1226,
+  "text": "repeating: [], ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1241,
+  "remove": 20,
+  "text": "h",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1616,
+  "remove": 2,
+  "text": "ch",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1620,
+  "remove": 2,
+  "text": "acters.i",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1626,
+  "remove": 9,
+  "text": "(line.startIndex, offset",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1637,
+  "remove": 1,
+  "text": ": ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1941,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/Simulation.swift",
+  "offset": 1978,
+  "remove": 6,
+  "text": "open",
+ }
+]

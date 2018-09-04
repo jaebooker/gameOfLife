@@ -1,0 +1,75 @@
+[
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 167,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 255,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 310,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 360,
+  "remove": 8,
+  "text": "e",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 378,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 396,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 617,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 639,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 713,
+  "text": " as! [Character?]",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 730,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 756,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 1303,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/dion/MakeSchool/Swift-3-Conversion/Intro/Intro-Arrays-Loops-Swift-Playground/Arrays-Loops.playground/Sources/PaletteGrid.swift",
+  "offset": 1333,
+  "text": "_ ",
+ }
+]
